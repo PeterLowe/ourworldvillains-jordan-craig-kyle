@@ -10,12 +10,14 @@ coins are called looney tunes
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
----- Germany
+---- Germany [KM]
 Has great Highways
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
+----- Chad [KM]
+Great name for a country
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
