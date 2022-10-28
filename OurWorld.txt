@@ -22,10 +22,12 @@ Great name for a country
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
------- afghanistan
+------ afghanistan [KM]
 Lots of War 
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
+-----New Zeland [KM]
+like Austrailia but with smaller and more sheep
