@@ -2,8 +2,8 @@ Compiled by Peter Lowe [PL]
 Compiled by Craig Kavanagh [CK]
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
----- United States of America [pl]
-Land of the free and the home of the brave.
+---- United States of America [pl][CK]
+Land of the free and the home of the brave and the stupid.
 
 ++++++++++++++++++++++  Canada  ++++++++++++++++++++
 ---- Canada [CK]
